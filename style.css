@@ -47,6 +47,10 @@ h1{
     background-color: rgb(253, 181, 49);
 }
 
+.buttons:active{
+    background-color: hsl(39, 100%, 38%);
+}
+
 .btnContainer{
     display: flex;
     justify-content: center;
